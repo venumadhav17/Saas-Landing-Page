@@ -9,6 +9,7 @@ const navLinks = [
     { label: "FAQs", href: "#faqs" },
 ];
 
+// Added Navbar Section
 export default function Navbar() {
     return (
         <section className="py-4 lg:py-8">
