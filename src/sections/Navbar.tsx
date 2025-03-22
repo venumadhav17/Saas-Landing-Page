@@ -18,7 +18,7 @@ export default function Navbar() {
                     <div>
                         <Image
                             src={logoImage}
-                            alt="Layers logo"
+                            alt="Layers Logo"
                             className="h-9 md:h-auto w-auto"
                         />
                     </div>
